@@ -31,19 +31,16 @@ Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
 > Should it encompass several lines?
 > This is how you do it.
-## FAQs
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
+## FAQs
+Example of a list
+1. **This is a text in bold** Normal text with _italic text words_.
+2. __Next text in bold__ example of an unordered list:
 * First point
 * Second Point
 * Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+3. **List exmaple in bold** List example with *italic words*.
+4. **Fourth list point in bold**
+| Headline 1 in the taFblehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:--------------|:-------------:|--------------:|
 | text-align left | text-align center | text-align right |
