@@ -8,7 +8,7 @@
 ***
 Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
 ### Screenshot
-![Image text](https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg)
+[Image text](https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg)
 ## Technologies
 ***
 A list of technologies used within the project:
